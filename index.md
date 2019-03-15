@@ -1,1 +1,1 @@
-！[内容自填]（刚刚复制的图片的网页地址）
+！[内容自填]（https://github.com/ch19942019/new/blob/master/bangbang.jpg）
