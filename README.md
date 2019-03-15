@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/ch19942019/new/edit/master
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ！[内容自填]（https://github.com/ch19942019/new/blob/master/bangbang.jpg）
 ### Markdown
-
+！[内容自填]（https://github.com/ch19942019/new/blob/master/bangbang.jpg）
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
